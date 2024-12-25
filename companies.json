@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Microsoft",
+        "Industry": "Software Development",
+        "Headquaters": "Redmond, Washington",
+        "Overview": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn\u2019t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide."
+    },
+    {
+        "name": "Google",
+        "Industry": "Software Development",
+        "Headquaters": "Mountain View, CA",
+        "Overview": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh"
+    },
+    {
+        "name": "Apple",
+        "Industry": "Computers and Electronics Manufacturing",
+        "Headquaters": "Cupertino, California",
+        "Overview": "We\u2019re a diverse collective of thinkers and doers, continually reimagining what\u2019s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices \u2014 strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people\u2019s lives. Including your own.\n\nApple is an equal opportunity employer that is committed to inclusion and diversity. Visit apple.com/careers to learn more."
+    },
+    {
+        "name": "Amazon",
+        "Industry": "Software Development",
+        "Headquaters": "Seattle, WA",
+        "Overview": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. We are driven by the excitement of building technologies, inventing products, and providing services that change lives. We embrace new ways of doing things, make decisions quickly, and are not afraid to fail. We have the scope and capabilities of a large company, and the spirit and heart of a small one.\n\nTogether, Amazonians research and develop new technologies from Amazon Web Services to Alexa on behalf of our customers: shoppers, sellers, content creators, and developers around the world.\n\nOur mission is to be Earth's most customer-centric company. Our actions, goals, projects, programs, and inventions begin and end with the customer top of mind.\n\nYou'll also hear us say that at Amazon, it's always \"Day 1.\" What do we mean? That our approach remains the same as it was on Amazon's very first day - to make smart, fast decisions, stay nimble, invent, and focus on delighting our customers."
+    },
+    {
+        "name": "Meta",
+        "Industry": "Software Development",
+        "Headquaters": "Menlo Park, CA",
+        "Overview": "Meta's mission is to build the future of human connection and the technology that makes it possible. \n\nOur technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\nTo help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\n\n\u2022 Start with an open mind. Whether you agree or disagree, engage with empathy.\n\u2022 Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\n\u2022 Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\n\u2022 Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\n\u2022 If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).\n\nFor a full listing of our jobs, visit https://www.metacareers.com"
+    },
+    {
+        "name": "Tesla",
+        "Industry": "Motor Vehicle Manufacturing",
+        "Headquaters": "Austin, Texas",
+        "Overview": "Our mission is to accelerate the world\u2019s transition to sustainable energy. With global temperatures rising, the faster we free ourselves from fossil fuel reliance and achieve a zero-emission future, the better. \n \nIn pursuit of this mission, we make electric vehicles that are not just great EVs, but the best cars, period. We also produce and install infinitely scalable clean energy generation and storage products that help our customers further decrease their environmental impact. When it comes to achieving our goals, we pride ourselves in accomplishing what others deem impossible.\n \nWe are opening new factories and increasing our output everyday \u2013 join us in building a sustainable future."
+    },
+    {
+        "name": "Netflix",
+        "Industry": "Entertainment Providers",
+        "Headquaters": "Los Gatos, CA",
+        "Overview": "Netflix is one of the world's leading entertainment services with over 270 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time."
+    },
+    {
+        "name": "Adobe",
+        "Industry": "Software Development",
+        "Headquaters": "San Jose, CA",
+        "Overview": "Adobe is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone \u2013 from emerging artists to global brands \u2013 to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we\u2019re changing the world through digital experiences."
+    },
+    {
+        "name": "Intel Corporation",
+        "Industry": "Semiconductor Manufacturing",
+        "Headquaters": "Santa Clara, California",
+        "Overview": "Intel\u2019s mission is to shape the future of technology to help create a better future for the entire world. By pushing forward in fields like AI, analytics and cloud-to-edge technology, Intel\u2019s work is at the heart of countless innovations. From major breakthroughs like self-driving cars and rebuilding the coral reefs, to things that make everyday life better like blockbuster effects and improved shopping experiences \u2014 they\u2019re all powered by Intel technology. With a career at Intel, you have the opportunity to help make the future more wonderful for everyone.\n\nJoin us."
+    },
+    {
+        "name": "IBM",
+        "Industry": "IT Services and IT Consulting",
+        "Headquaters": "Armonk, New York, NY",
+        "Overview": "At IBM, we do more than work. We create. We create as technologists, developers, and engineers. We create with our partners. We create with our competitors. If you're searching for ways to make the world work better through technology and infrastructure, software and consulting, then we want to work with you.\n\nWe're here to help every creator turn their \"what if\" into what is. Let's create something that will change everything."
+    }
+]
